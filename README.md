@@ -1,3 +1,3 @@
 # Haskell-Course
 
-funktional Programming course exercises and small coursework (w7)
+Functional Programming course exercises and small coursework (w7)
